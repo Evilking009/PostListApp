@@ -1,0 +1,29 @@
+name: companyapi
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0-444.4.beta <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: any
+  flutter_launcher_icons: any
+  http: ^0.13.5
+
+
+dependency_overrides:
+  args: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.jpeg
