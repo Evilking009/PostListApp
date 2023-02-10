@@ -25,3 +25,5 @@ An Android app made in flutter featuring REST API, login, and displaying all pos
 * Rest API
 
 # Screenshots
+
+![PostListApp](https://user-images.githubusercontent.com/4027728/218113582-a31061b4-3246-447a-b111-104868f974ad.png)
